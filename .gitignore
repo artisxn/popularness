@@ -1,0 +1,21 @@
+# IDE Files
+#-------------------------
+.idea/*
+
+/node_modules
+/public/hot
+/public/storage
+/public/images/*
+/public/upload
+/storage/*.key
+/vendor
+/nova
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.vagrant/
+composer.lock
+package-lock.json
